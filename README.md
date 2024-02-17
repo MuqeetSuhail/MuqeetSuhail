@@ -1,8 +1,9 @@
 <br>
+<br>
 <p align="center" style="margin-bottom: 0;">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=DC152B&center=true&random=false&width=1000&lines=WELCOME+TO+MY+GITHUB+PROFILE!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=44&pause=1000&color=FF8911&center=true&random=false&width=1000&height=74&lines=Welcome+to+my+Github+Profile+!+👋;Don't+Forget+to+Follow+🙂" />
   </a>
 </p>
 
