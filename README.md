@@ -5,11 +5,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=DC152B&center=true&random=false&width=1000&lines=WELCOME+TO+MY+GITHUB+PROFILE!" />
   </a>
 </p>
-<hr>
 
 <p>
-<h3><img align="left" alt="Java" width="26px" style="padding-right: 5px;" src="https://github.com/MuqeetSuhail/MuqeetSuhail/assets/128026033/f5f43be4-7a64-4171-8ea2-cfc583c41a24" />
-About me </h3>
+<h2><img align="left" alt="Java" width="26px" style="padding-right: 5px;" src="https://github.com/MuqeetSuhail/MuqeetSuhail/assets/128026033/f5f43be4-7a64-4171-8ea2-cfc583c41a24" />
+About me </h2>
 Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoys blending technical expertise with creative flair. With a track record of delivering high-quality projects during my university tenure, I bring a fast-learning mindset and motivation to every task. Leveraging my skills in both coding and design, I strive to create innovative solutions that push boundaries and inspire. Let's collaborate and innovate together
 </p>
 
@@ -22,7 +21,7 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 </p>
 
 <p>
-<h3> 🛠️ Languages and Tools </h3>
+<h2> 🛠️ Languages and Tools </h2>
 
 <img align="left" alt="C++" width="47px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
 <img align="left" alt="C#" width="47px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/>
@@ -39,19 +38,19 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 </p>
 
 <p>
-<h3> 🤝 Let's Connect </h3>
+<h2> 🤝 Let's Connect </h2>
 <a href="www.linkedin.com/in/innovativeabdulmuqeet/"><img align="left" alt="Linkedin" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
 <a href="https://www.behance.net/muqeetsuhail"> <img alt="Behance" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/behance/behance-original.svg" alt="behance"/></a>
 </p>
 
 <p>
-<h3> 🏆 Github Trophies </h3> 
+<h2> 🏆 Github Trophies </h2> 
 <img alt="Tropies" src="https://github-profile-trophy.vercel.app/?username=MuqeetSuhail&theme=radical&no-frame=false"/>
 </p>
 
-<details> 
-  <summary><h3>📈 Statistics</h3></summary>
+<p>
+<h2>📈 Statistics</h2>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MuqeetSuhail&show_icons=true&theme=tokyonight" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuqeetSuhail&layout=compact" />
-</details>
+</p>
 
