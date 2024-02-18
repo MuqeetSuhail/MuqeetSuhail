@@ -36,6 +36,7 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 <img align="left" alt="Illustrator" width="43px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/illustrator/illustrator-line.svg" alt="ai"/>
 <img align="left" alt="Canva" width="43px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" alt="canva"/>
 <img alt="Linux" width="43px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/>
+<br/>
 </p>
 
 <p>
