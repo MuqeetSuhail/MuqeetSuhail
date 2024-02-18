@@ -21,9 +21,8 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MuqeetSuhail?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<p>
+<p style="margin-bottom: 5px;">
   <h2> 🛠️ Languages and Tools </h2>
-  <p align="left">
   <img align="left" alt="C++" height="43" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
   <img align="left" alt="C#" height="44" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/>
   <img align="left" alt="SqlLanguage" height="45" width="40" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="sqllang"/>
@@ -36,7 +35,6 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
   <img align="left" alt="Photoshop" height="48" width="44" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" alt="ps"/>
   <img align="left" alt="Canva" height="50" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" alt="canva"/>
   <img alt="Linux" height="49" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/>
-</p>
 </p>
 
 <p>
