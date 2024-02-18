@@ -21,9 +21,9 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MuqeetSuhail?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-
+<p>
+  <br>
   <h2> 🛠️ Languages and Tools </h2>
-  <p align="left">
   <img align="left" alt="C++" height="43" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
   <img align="left" alt="C#" height="44" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/>
   <img align="left" alt="SqlLanguage" height="45" width="40" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="sqllang"/>
@@ -40,18 +40,20 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 
 
 <p>
+<br>
 <h2> 🤝 Let's Connect </h2>
 <a href="https://www.linkedin.com/in/innovativeabdulmuqeet/"><img align="left" alt="Linkedin" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
 <a href="https://www.behance.net/muqeetsuhail"> <img alt="Behance" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/behance/behance-original.svg" alt="behance"/></a>
 </p>
 
 <p>
+<br>
 <h2> 🏆 Github Trophies </h2> 
 <img alt="Tropies" src="https://github-profile-trophy.vercel.app/?username=MuqeetSuhail&theme=radical&no-frame=false"/>
 </p>
 
 <p>
-\
+<br>
 <h2>📈 Statistics</h2>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=MuqeetSuhail&show_icons=true&theme=tokyonight" />
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuqeetSuhail&layout=compact" />
