@@ -22,6 +22,24 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 </p>
 
 <p>
+<h2>🤝 Let's Connect</h2>
+<a href="https://www.linkedin.com/in/innovativeabdulmuqeet/"><img align="left" alt="Linkedin" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
+<a href="https://www.behance.net/muqeetsuhail"> <img alt="Behance" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/behance/behance-original.svg" alt="behance"/></a>
+</p>
+
+<p>
+  <h2> 🏆 Github Trophies </h2> 
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MuqeetSuhail&theme=radical&no-frame=false"/>
+</p>
+
+
+<h2>📈 Statistics</h2>
+<p align="left">
+<img  width="33%" src="https://github-readme-stats.vercel.app/api?username=MuqeetSuhail&show_icons=true&theme=tokyonight" />
+<img  width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuqeetSuhail&layout=compact" />
+</p>
+
+<p>
 <h2> 🛠️ Languages and Tools </h2>
   <img align="left" alt="C++" height="43" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
   <img align="left" alt="C#" height="44" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/>
@@ -36,25 +54,3 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
   <img align="left" alt="Canva" height="50" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" alt="canva"/>
   <img alt="Linux" height="49" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/>
 </p>
-
-<span style="display: inline-block; background-color: #333; color: #fff; padding: 10px 20px; border-radius: 5px; margin-top: 10px; font-size: 1.5em;">
-  🤝 Let's Connect
-</span>
-
-<p>
-<a href="https://www.linkedin.com/in/innovativeabdulmuqeet/"><img align="left" alt="Linkedin" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
-<a href="https://www.behance.net/muqeetsuhail"> <img alt="Behance" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/behance/behance-original.svg" alt="behance"/></a>
-</p>
-
-<p>
-  <h2> 🏆 Github Trophies </h2> 
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MuqeetSuhail&theme=radical&no-frame=false"/>
-</p>
-
-
-<p>
-<h2>📈 Statistics</h2>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=MuqeetSuhail&show_icons=true&theme=tokyonight" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuqeetSuhail&layout=compact" />
-</p>
-
