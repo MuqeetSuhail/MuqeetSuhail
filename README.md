@@ -21,9 +21,8 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MuqeetSuhail?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-
-<h2> 🛠️ Languages and Tools </h2>
 <p>
+<h2> 🛠️ Languages and Tools </h2>
   <img align="left" alt="C++" height="43" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
   <img align="left" alt="C#" height="44" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/>
   <img align="left" alt="SqlLanguage" height="45" width="40" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="sqllang"/>
@@ -38,8 +37,11 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
   <img alt="Linux" height="49" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/>
 </p>
 
+<span style="display: inline-block; background-color: #333; color: #fff; padding: 10px 20px; border-radius: 5px; margin-top: 10px; font-size: 1.5em;">
+  🤝 Let's Connect
+</span>
+
 <p>
-<h2>🤝 Let's Connect </h2>
 <a href="https://www.linkedin.com/in/innovativeabdulmuqeet/"><img align="left" alt="Linkedin" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
 <a href="https://www.behance.net/muqeetsuhail"> <img alt="Behance" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/behance/behance-original.svg" alt="behance"/></a>
 </p>
@@ -55,3 +57,4 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=MuqeetSuhail&show_icons=true&theme=tokyonight" />
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuqeetSuhail&layout=compact" />
 </p>
+
