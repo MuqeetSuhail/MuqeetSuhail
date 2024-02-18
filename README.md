@@ -23,6 +23,7 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 
 <p>
 <h2> 🛠️ Languages and Tools </h2>
+<p>
 <img align="left" alt="C++" height="43" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
 <img align="left" alt="C#" height="44" width="40" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/>
 <img align="left" alt="SqlLanguage" height="45" width="40" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="sqllang"/>
@@ -36,7 +37,7 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 <img align="left" alt="Canva" height="50" width="40" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" alt="canva"/>
 <img alt="Linux" height="49" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/>
 </p>
-
+</p>
 <p>
 <h2> 🤝 Let's Connect </h2>
 <a href="https://www.linkedin.com/in/innovativeabdulmuqeet/"><img align="left" alt="Linkedin" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
