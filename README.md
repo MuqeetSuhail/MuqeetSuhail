@@ -35,8 +35,8 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 
 <h2>📈 Statistics</h2>
 <p align="left">
-<img  width="45%" src="https://github-readme-stats.vercel.app/api?username=MuqeetSuhail&show_icons=true&theme=tokyonight" />
-<img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
+<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=MuqeetSuhail&show_icons=true&theme=tokyonight" />
+<img  width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuqeetSuhail&layout=donut"/>
 </p>
 
 <p>
