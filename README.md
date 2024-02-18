@@ -40,7 +40,7 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 
 <p>
 <h2> 🤝 Let's Connect </h2>
-<a href="www.linkedin.com/in/innovativeabdulmuqeet"><img align="left" alt="Linkedin" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/innovativeabdulmuqeet/"><img align="left" alt="Linkedin" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
 <a href="https://www.behance.net/muqeetsuhail"> <img alt="Behance" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/behance/behance-original.svg" alt="behance"/></a>
 </p>
 
@@ -51,7 +51,7 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 
 <p>
 <h2>📈 Statistics</h2>
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=MuqeetSuhail&show_icons=true&theme=tokyonight" />
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuqeetSuhail&layout=compact" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api?username=MuqeetSuhail&show_icons=true&theme=tokyonight" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuqeetSuhail&layout=compact" />
 </p>
 
