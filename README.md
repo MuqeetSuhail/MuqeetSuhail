@@ -23,7 +23,6 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 
 <p>
 <h2> 🛠️ Languages and Tools </h2>
-
 <img align="left" alt="C++" width="47px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
 <img align="left" alt="C#" width="47px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/>
 <img align="left" alt="SqlLanguage" width="47px" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="sqllang"/>
@@ -39,6 +38,7 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 </p>
 
 <p>
+<h2></h2>
 <h2> 🤝 Let's Connect </h2>
 <a href="https://www.linkedin.com/in/innovativeabdulmuqeet/"><img align="left" alt="Linkedin" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt="linkedin"/></a>
 <a href="https://www.behance.net/muqeetsuhail"> <img alt="Behance" width="47px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/behance/behance-original.svg" alt="behance"/></a>
