@@ -33,7 +33,7 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 <img align="left" alt="Mysql" width="44px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
 <img align="left" alt="MicrosoftSqlSever" width="44px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SqlServer"/>
 <img align="left" alt="Photoshop" width="44px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="ps"/>
-<img align="left" alt="Illustrator" width="44px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/illustrator/illustrator-line.svg" alt="ai"/>
+
 <img align="left" alt="Canva" width="44px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" alt="canva"/>
 <img alt="Linux" width="44px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux"/>
 
