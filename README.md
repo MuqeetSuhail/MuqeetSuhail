@@ -15,10 +15,10 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 
 <p align="left">
   <a href="https://github.com/muqeet-suhail?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/muqeet-suhail?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-<img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/watchers/DenverCoder1/custom-icon-badges?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=eye&logoColor=white"/>
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/muqeet-suhail?color=55960c&style=for-the-badge&labelColor=555555&logo=star"/></a>
+  <img src="https://komarev.com/ghpvc/?username=muqeet-suhail&style=for-the-badge&color=orange" alt="Profile Views">
  <a href="https://github.com/muqeet-suhail?tab=followers">
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/muqeet-suhail?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/muqeet-suhail?color=236ad3&labelColor=555555&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 
 <p>
