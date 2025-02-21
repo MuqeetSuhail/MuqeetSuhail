@@ -8,17 +8,17 @@
 </p>
 
 <p>
-<h2><img align="left" alt="Java" width="26px" style="padding-right: 5px;" src="https://github.com/MuqeetSuhail/MuqeetSuhail/assets/128026033/f5f43be4-7a64-4171-8ea2-cfc583c41a24" />
+<h2><img align="left" alt="icon" width="26px" style="padding-right: 5px;" src="https://github.com/muqeet-suhail/muqeet-suhail/assets/128026033/f5f43be4-7a64-4171-8ea2-cfc583c41a24" />
 About me </h2>
 Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoys blending technical expertise with creative flair. With a track record of delivering high-quality projects during my university tenure, I bring a fast-learning mindset and motivation to every task. Leveraging my skills in both coding and design, I strive to create innovative solutions that push boundaries and inspire. Let's collaborate and innovate together
 </p>
 
 <p align="left">
-  <a href="https://github.com/MuqeetSuhail?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MuqeetSuhail?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/muqeet-suhail?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/muqeet-suhail?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/github/watchers/DenverCoder1/custom-icon-badges?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=eye&logoColor=white"/>
- <a href="https://github.com/MuqeetSuhail?tab=followers">
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MuqeetSuhail?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+ <a href="https://github.com/muqeet-suhail?tab=followers">
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/muqeet-suhail?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 
 <p>
@@ -29,14 +29,14 @@ Greetings..!, I'm Abdul Muqeet, a versatile coder and graphic designer who enjoy
 
 <p>
   <h2> 🏆 Github Trophies </h2> 
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=MuqeetSuhail&theme=radical&no-frame=false"/>
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=muqeet-suhail&theme=radical&no-frame=false"/>
 </p>
 
 
 <h2>📈 Statistics</h2>
 <p align="left">
-<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=MuqeetSuhail&show_icons=true&theme=tokyonight" />
-<img  width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuqeetSuhail&layout=donut"/>
+<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=muqeet-suhail&show_icons=true&theme=tokyonight" />
+<img  width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqeet-suhail&layout=donut"/>
 </p>
 
 <p>
